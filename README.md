@@ -3,14 +3,14 @@
 I build synthesizers, write code, and design circuits. Most of my work lives somewhere between audio engineering and software.
 Currently designing standalone synthesizers from scratch (schematic → PCB → panel).
 
-## what I build with
+## What I build with
 
 **Code:** C · C++ · Python · JavaScript · HTML/CSS  
 **Hardware:** EasyEDA Pro · KiCad · Daisy Patch SM · Jetson Orin Nano  
 **Audio/DSP:** Real-time synthesis · Stem separation (Demucs) · Signal processing  
 **Web:** React · Node.js · REST APIs · PostgreSQL
 
-## projects worth looking at
+## Projects worth looking at
 
  **[Kymatikos](https://github.com/Dylan-Hackett/Kymatikos)** — C++ audio synthesis engine  
  **[Thaumazein](https://github.com/Dylan-Hackett/Thaumazein)** — Hardware-focused synthesizer in C  
