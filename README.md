@@ -1,7 +1,7 @@
 ## Good Evening
 
-<!--I build synthesizers, write code, and design circuits. Most of my work lives somewhere between audio engineering and software — I like making things that make sound.
-Currently designing Eurorack modules from scratch (schematic → PCB → panel) and building a standalone hardware device that does real-time stem separation without a computer.
+I build synthesizers, write code, and design circuits. Most of my work lives somewhere between audio engineering and software — I like making things that make sound.
+Currently designing standalone analog sound computers from scratch (schematic → PCB → panel).
 what I build with
 Code: C · C++ · Python · JavaScript · HTML/CSS
 Hardware: EasyEDA Pro · KiCad · Daisy Patch SM · Jetson Orin Nano
@@ -14,4 +14,4 @@ projects worth looking at
   JavascriptVisualizer — Real-time browser music visualizer
   Sampler — Audio sampler built in C++
   sales_reporting — Automated sales pipeline via API
--->
+
