@@ -1,7 +1,7 @@
 # Good Evening
 
 I build synthesizers, write code, and design circuits. Most of my work lives somewhere between audio engineering and software.
-Currently designing standalone synthesizers from scratch (schematic → PCB → panel).
+Currently designing standalone synthesizers from scratch (schematic → PCB → panel), and building a softwate abstraction layer on top of the hardware
 
 ## What I build with
 
