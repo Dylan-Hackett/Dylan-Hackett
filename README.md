@@ -1,16 +1,17 @@
-## Hi there 👋
+## Good Evening
 
-<!--
-**Dylan-Hackett/Dylan-Hackett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--I build synthesizers, write code, and design circuits. Most of my work lives somewhere between audio engineering and software — I like making things that make sound.
+Currently designing Eurorack modules from scratch (schematic → PCB → panel) and building a standalone hardware device that does real-time stem separation without a computer.
+what I build with
+Code: C · C++ · Python · JavaScript · HTML/CSS
+Hardware: EasyEDA Pro · KiCad · Daisy Patch SM · Jetson Orin Nano
+Audio/DSP: Real-time synthesis · Stem separation (Demucs) · Signal processing
+Web: React · Node.js · REST APIs · PostgreSQL
+projects worth looking at
+  Kymatikos — C++ audio synthesis engine
+  Thaumazein — Hardware-focused synthesizer in C
+  ChicagoLakeTracker — Lake Michigan water quality predictions
+  JavascriptVisualizer — Real-time browser music visualizer
+  Sampler — Audio sampler built in C++
+  sales_reporting — Automated sales pipeline via API
 -->
