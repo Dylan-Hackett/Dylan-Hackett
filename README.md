@@ -2,7 +2,7 @@
 ## What I build with
 
 **Code:** C · C++ · Python · JavaScript · HTML/CSS  
-**Hardware:** EasyEDA Pro · KiCad · Daisy Patch SM · Jetson Orin Nano  
+**Hardware:** EasyEDA Pro · KiCad · Daisy Patch SM 
 **Audio/DSP:** Real-time synthesis · Stem separation (Demucs) · Signal processing  
 **Web:** React · Node.js · REST APIs · PostgreSQL
 
